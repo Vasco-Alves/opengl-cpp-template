@@ -1,0 +1,10 @@
+{
+  "name": "opengl-cpp-template",
+  "version-string": "0.1.0",
+  "description": "Template C++ project for OpenGL using CMake and vcpkg",
+  "dependencies": [
+    "glfw3",
+    "glad",
+    "glm"
+  ]
+}

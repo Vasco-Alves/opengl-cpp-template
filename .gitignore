@@ -39,3 +39,16 @@
 
 # debug information files
 *.dwo
+
+# CMake & vcpkg outputs
+/out/
+/build/
+vcpkg_installed/
+CMakeCache.txt
+CMakeFiles/
+CMakeUserPresets.json
+
+# IDE specific files
+.vs/
+.vscode/
+.idea/
