@@ -27,11 +27,7 @@ Ensure you have an environment variable named `VCPKG_ROOT` pointing to your vcpk
 
 ### 2. Create a New Project
 
-Click the green **"Use this template"** button on GitHub to create a new repository from this starter code, or clone it directly:
-
-```bash
-git clone [https://github.com/Vasco-Alves/opengl-cpp-template.git](https://github.com/Vasco-Alves/opengl-cpp-template.git) my-new-project
-```
+Click the green **"Use this template"** button on GitHub to create a new repository from this starter code, or clone it directly.
 
 ### 3. Build & Run
 
